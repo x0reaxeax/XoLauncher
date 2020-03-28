@@ -167,6 +167,7 @@ namespace XoLauncher
 
             if (String.Equals(exeshasum, localsum, StringComparison.InvariantCultureIgnoreCase)) {
                 MessageBox.Show("XoLauncher is up-to-date!", "Strawberry Fields Forever", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                return;
             }
             MessageBox.Show("Update available! Click 'OK' to update XoLauncher.", "Update Available", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
