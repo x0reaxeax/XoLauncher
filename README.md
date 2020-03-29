@@ -19,6 +19,7 @@
  * Dynamic Download Progress Bar
  * Automatic removal of outdated mods
  * **Fix bug with launching incorrect instance after re-launching Minecraft**
+ * Add title font to resources file
  
  
  [License](https://github.com/x0reaxeax/XoLauncher/blob/master/LICENSE)
