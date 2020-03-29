@@ -1,6 +1,6 @@
 # ![XoLauncher](https://i.imgur.com/reKe6vG.png) XoLauncher
 ### 1. Setting up XoLauncher  
-   **1.1** Download [XoLauncher](https://github.com/x0reaxeax/XoLauncher/releases/download/rls/XoLauncher.exe)  
+   **1.1** Download [XoLauncher](https://github.com/x0reaxeax/XoLauncher/releases/download/rls/XoLauncher.rar) and extract it  
    **1.2** Open **XoLauncher** and navigate the first-time setup to your MultiMC directory  
 ### 2. Launching Minecraft  
    **2.1** Select your MultiMC instance and press `Launch Minecraft`  
