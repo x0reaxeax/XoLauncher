@@ -92,6 +92,7 @@ namespace XoLauncher
         /* first time run 0 - Nope, 1 - Yes, 2 - NULL */
         uint firstTimeRun = 2;
         UInt16 startup = 1;
+        UInt16 updateNotif = 0;
 
         private readonly AutoResetEvent mWaitForThread = new AutoResetEvent(false);
 
@@ -219,7 +220,7 @@ namespace XoLauncher
                 MessageBox.Show("Please select Minecraft instance first!", "Error!", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
-            
+
             /* Launch Minecraft */
             button2.Text = "Downloading checksums..";
             //progressBar1.Visible = true;
@@ -248,11 +249,12 @@ namespace XoLauncher
             }
 
             List<string> undetectedMods = new List<string>();
+            List<string> modsToRemove = new List<string>();
 
             foreach (var sumLine in File.ReadLines(dlLoc))
             {
                 foreach (Match match in Regex.Matches(sumLine.ToString(), "shasum: \"([^\"]*)\" mod: \"([^\"]*)\""))
-                {                 
+                {
                     if (!File.Exists(localSums))
                     {
                         undetectedMods.Add(match.ToString());
@@ -284,6 +286,61 @@ namespace XoLauncher
 
             button2.Text = "Download Complete";
 
+            button2.Text = "Checking for outdated mods..";
+            button2.Refresh();
+
+            string rmmLoc = String.Format("{0}\\outdated.txt", appdata);
+
+            if (File.Exists(rmmLoc))
+            {
+                File.Delete(rmmLoc);
+            }
+
+            startDownload("https://raw.githubusercontent.com/x0reaxeax/XoLauncher/master/outdated.txt", rmmLoc);
+
+
+            if (File.Exists(localSums))
+            {
+                foreach (var rmLine in File.ReadLines(rmmLoc))
+                {
+                    foreach (Match rmMatch in Regex.Matches(rmLine.ToString(), "shasum: \"([^\"]*)\""))
+                    {
+                        /*if (File.ReadAllText(localSums).Contains(rmMatch.ToString().Substring(9, 64)))
+                        {
+                            /* mod sha match found * /
+                        }*/
+                        foreach (var localLine in File.ReadLines(localSums))
+                        {
+                            if (localLine.ToString().Contains(rmMatch.ToString())) {
+                                modsToRemove.Add(localLine.ToString().Substring(80));
+                            }
+                        }
+                    }
+                }
+
+
+                foreach (var rmArray in modsToRemove)
+                {
+                    foreach (Match rmm in Regex.Matches(rmArray.ToString(), "\"([^\"]*)\""))
+                    {
+                        string modName = rmm.ToString();//.Substring(80); //Replace("mod:", "");
+                        modName = modName.Replace("\"", "");
+                        string modLoc = String.Format("{0}\\.minecraft\\mods\\{1}", currentIMP, modName);
+
+                        if (!File.Exists(modLoc))
+                        {
+                            MessageBox.Show("Cannot delete outdated mod: '" + modName +"'! It doesn't exist?!?! The fuck??", "Error!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        }
+
+                        button2.Text = "Removing: " + modName;
+                        button2.Refresh();
+
+                        File.Delete(modLoc);
+                    }
+                }
+            }
+
+
             Process process = new Process();
             ProcessStartInfo startInfo = new ProcessStartInfo();
             startInfo.WindowStyle = ProcessWindowStyle.Hidden;
@@ -297,7 +354,7 @@ namespace XoLauncher
         }
 
         private void Form1_Activated(object sender, EventArgs e)
-        {      
+        {
             if (firstTimeRun == 1)
             {
                 this.Hide();
@@ -373,6 +430,28 @@ namespace XoLauncher
 
                 /* load mods */
                 LoadSortInstances();
+
+                if (updateNotif == 0)
+                {
+                    string exeshasum;
+                    string localsum;
+                    using (WebClient txtClient = new WebClient())
+                    {
+                        txtClient.CachePolicy = new System.Net.Cache.RequestCachePolicy(System.Net.Cache.RequestCacheLevel.NoCacheNoStore);
+                        exeshasum = txtClient.DownloadString("https://raw.githubusercontent.com/x0reaxeax/XoLauncher/master/launchersum.dat");
+                    }
+
+
+                    localsum = SHA256CheckSum(System.Reflection.Assembly.GetExecutingAssembly().Location).ToLower();
+                    exeshasum = exeshasum.Substring(0, 64);
+
+                    if (!String.Equals(exeshasum, localsum, StringComparison.InvariantCultureIgnoreCase))
+                    {
+                        MessageBox.Show("A new update is available! Press 'Check for Updates' on main launcher window.", "Update Available!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                    updateNotif = 1;
+                    this.Focus();
+                }
             }
         }
 
@@ -387,7 +466,9 @@ namespace XoLauncher
                 else ((CheckedListBox)sender).SetItemChecked(ix, true);
 
             listBox1.Items.Clear();
+            /* fix 1011 */
             currentIMP = "";
+            currentIMPNaked = "";
             /* load mods (IMP = instance mods path) */
             for (int i = 0; i < checkedListBox1.Items.Count; i++)
             {
