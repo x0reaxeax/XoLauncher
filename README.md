@@ -16,11 +16,20 @@
   
 
 ## TO-DO:
- * Dynamic Download Progress Bar
- * Automatic removal of outdated mods
- * **Fix bug with launching incorrect instance after re-launching Minecraft**
- * Add title font to resources file
+- [ ] Dynamic Download Progress Bar
+- [x] Automatic removal of outdated mods
+- [x] **Fix bug with launching incorrect instance after re-launching Minecraft**
+- [x] Add title font to resources file
  
+ ## Changelog:
+  **v1.1**
+   * Added mechanism to delete outdated mods
+   * Added Update notification on startup
+   * Fixed bug with launching incorrect instance after re-launching Minecraft
+   * Added title font to resources file
+ 
+ ## MOTD:
+   * `ICBM - Classic` will be added soon  
  
  [License](https://github.com/x0reaxeax/XoLauncher/blob/master/LICENSE)
  
