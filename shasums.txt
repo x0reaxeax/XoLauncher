@@ -97,5 +97,5 @@ shasum: "9e8384b2b857ef7afe7f734b83366fb378cb65f7bb12876894ad35e8c0a47035" mod: 
 shasum: "1c1ec0d90b6c309b2fcb26f1c9e1c6ab1f010d1cb438f0c81034ab1f560a0018" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/Useful+Interior+-+0.13.1+.1.12.2.jar"
 shasum: "75d2a521092b020888c487479d841a09951f35ed19db09a7d28aed6e29155860" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/VanillaFix-1.0.10-99.jar"
 shasum: "f7103d2dfb8d8f63e9dff1525359f2b8c6da9cd9e70688037668982b130b704d" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar"
-shasum: "c2c04332242cb17aa96b6e2ccd697a9a4a31c2b7516164f156e6d4297d8eefaf" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/xnet-1.12-1.8.2.jar"
+shasum: "37b39fb2e10bf3a991952317d68cf137c7470060197ce74a5826699fac0326fc" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/xnet-1.12-1.8.2.jar"
 shasum: "37b39fb2e10bf3a991952317d68cf137c7470060197ce74a5826699fac0326fc" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/zerocore-1.12.2-0.1.2.8.jar"
