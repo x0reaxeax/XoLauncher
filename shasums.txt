@@ -67,7 +67,7 @@ shasum: "1f2664d0e81444e88398f24eafa54c07d64ee491a24c04f89752cb069cd234ae" mod: 
 shasum: "26dccd0e1f4305f5f544de7e7772a98bab5eb302922253cd65ef018ba8acc50f" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/Placeable-Items-1.12.2.jar"
 shasum: "167888d06f892853cb39890ceeb47f51c5345ea644b342c37a4fefebafcb8300" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/PortalGun-1.12.2-7.1.0.jar"
 shasum: "05e6598c37f432f02224d36c7f2e69aa9595c8b4fa48fe0c037367d47e625027" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/practicallogistics2-1.12.2-3.0.8-11.jar"
-shasum: "8345e86d84cc38e8017fef9b20b1160b4a988637e14b8bcb5b817747d8e63570" mod: "hhttps://github.com/x0reaxeax/XoLauncher/releases/download/rls/ProjectRed-1.12.2-4.9.4.120-Base.jar"
+shasum: "8345e86d84cc38e8017fef9b20b1160b4a988637e14b8bcb5b817747d8e63570" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/ProjectRed-1.12.2-4.9.4.120-Base.jar"
 shasum: "02c2f75cc0c6630195072bd2cd5878fb60cc0b6780d4fd6a3b0f7b1f3f8ea394" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/ProjectRed-1.12.2-4.9.4.120-compat.jar"
 shasum: "6f74f0cc3223636bae0c2a6f61dabdf377df2e4bd73db62f12e9c2356492ae9c" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/ProjectRed-1.12.2-4.9.4.120-fabrication.jar"
 shasum: "659623f496dd457dd689c69dbd7a593453f65f78662a4af8dc624bfff33ee2eb" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/ProjectRed-1.12.2-4.9.4.120-integration.jar"
