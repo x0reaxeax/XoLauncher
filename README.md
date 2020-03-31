@@ -29,7 +29,8 @@
    * Added title font to resources file
  
  ## MOTD:
-   * `ICBM - Classic` will be added soon  
+   * Updated 36 mods and added `ICBM - Classic`!
+   * **Updated Forge to `14.23.5.2838`, please update Forge in MultiMC using `Install Forge` button in `Edit Instance` option.**
  
  [License](https://github.com/x0reaxeax/XoLauncher/blob/master/LICENSE)
  
