@@ -79,6 +79,7 @@ geneticsreborn
 Guide
 HammerCore
 Hwyla
+ICBM-Classic
 iChunUtil
 industrialcraft
 industrialforegoing
