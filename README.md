@@ -11,7 +11,7 @@
 ## Info
   * XoLauncher automatically syncs XoPack mods with the server, so you don't have to move a finger if we ever add a new mod!
   * That's about it actually..  
-  * XoLauncher requires a functional MultiMC instance with **`Forge 14.23.5.2816`** (compatible up-to `14.23.5.2838`)
+  * XoLauncher requires a functional MultiMC instance with ~~**`Forge 14.23.5.2816`** (compatible up-to `14.23.5.2838`)~~ **`Forge 14.23.5.2838`**
   * XoPack is a **REALLY BIG** modpack (over 100+ mods)! You might need a beefy computer to run it..
   
 
