@@ -30,7 +30,7 @@
    * Added title font to resources file
  
  ## MOTD:
-   * Added 'EnderIO' and 'Refined Storage'
+   * Added `EnderIO` and `Refined Storage`
    * Updated 36 mods and added `ICBM - Classic`, Electroblob's Wizardry & `BlockCraftery` (as an 1.12.2 alternative to Carpenter's Blocks)!
    * **Updated Forge to `14.23.5.2838`, please update Forge in MultiMC using `Install Forge` button in `Edit Instance` option.**
  
