@@ -11,7 +11,7 @@
 ## Info
   * XoLauncher automatically syncs XoPack mods with the server, so you don't have to move a finger if we ever add a new mod!
   * That's about it actually..  
-  * XoLauncher requires a functional MultiMC instance with ~~**`Forge 14.23.5.2816`** (compatible up-to `14.23.5.2838`)~~ **`Forge 14.23.5.2838`**
+  * XoLauncher requires a functional MultiMC instance with ~~**`Forge 14.23.5.2816`** (compatible up-to `14.23.5.2838`)~~ **`Forge 14.23.5.2846`**
   * XoPack is a **REALLY BIG** modpack (over 100+ mods)! You might need a beefy computer to run it..
   
 
@@ -30,9 +30,9 @@
    * Added title font to resources file
  
  ## MOTD:
-   * Added `EnderIO` and `Refined Storage`
+   * ~~Added `EnderIO` and `Refined Storage`~~
    * Updated 36 mods and added `ICBM - Classic`, Electroblob's Wizardry & `BlockCraftery` (as an 1.12.2 alternative to Carpenter's Blocks)!
-   * **Updated Forge to `14.23.5.2838`, please update Forge in MultiMC using `Install Forge` button in `Edit Instance` option.**
+   * **Updated Forge to `14.23.5.2846`, please update Forge in MultiMC using `Install Forge` button in `Edit Instance` option.**
  
  [License](https://github.com/x0reaxeax/XoLauncher/blob/master/LICENSE)
  
