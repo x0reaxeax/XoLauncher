@@ -86,6 +86,7 @@ shasum: "021f8f494c9cab040236921b33bf670b4e139720a851875979cb7b9eb3ef48aa" mod: 
 shasum: "7d8063471243e161f624abe4ba311d490bd7719aedbcfcf84e555358e19c3e89" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/RedstoneFlux-1.12-2.1.0.6-universal.jar"
 shasum: "558c38d0f7852d17a03aef81e4bd6cc2f28e60db8a8749c710c9ee829f2de0a4" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/rftools-1.12-7.73.jar"
 shasum: "ac731cd6b991c6da850499a83585ca34c971e2de8106515d1ee5830995110820" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/rftoolsdim-1.12-5.71.jar"
+shasum: "7232a57debf9342b849ab9e31442f3a136711892427209c6ff27b325b62c1a98" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/rsgauges-1.12.2-1.2.2.jar"
 shasum: "db54806be35b3bbcae9401ab989516ad6ab5b5501c2e1250f62cf987b5d086f0" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/SCP+Lockdown-1.12.2-2.3.1-dev.jar"
 shasum: "55708c8136085b7f2920b9d86613a3769b67f20d963600aeaab8e6ef6aa4068c" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/secretroomsmod-1.12.2-5.6.4.jar"
 shasum: "5ea72147cc883b062a68f09d699c276dd9df00bf76a81bd8b35e406923bc5534" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/SignPicture-1.12.1-2.8.1-universal.jar"
