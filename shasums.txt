@@ -24,6 +24,7 @@ shasum: "9446eee9dd1e99b12973a749f0149259f0613a389719d965ecff456f516d9a26" mod: 
 shasum: "df882cf3eb14627678d4c32aa62dd7ceec9840f6c8d2adb4260dc4b80a3241c2" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/ElecCore-1.12.2-1.9.453.jar"
 shasum: "f125f458862521c080ee32c72626ddefc4762f4fdf3e851d320941f254745975" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/ElectroblobsWizardry-4.2.10-MC1.12.2.jar"
 shasum: "a46e8d8855270550ba741322d3e42014b0f02228271dd5faa18f3a03cc302b49" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/EnderCore-1.12.2-0.5.73.jar"
+shasum: "9e735e3e46aa6492b45e67b30bc5a58715c71cd419c62e1b61f159c78d7d3673" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/energyconverters_1.12.2-1.3.6.24.jar"
 shasum: "1d9407d7834bdba70da3fed44f5ba744958781a823bb220aa7d555c6db7d33be" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/EvilCraft-1.12.2-0.10.78.jar"
 shasum: "6c1809eb2222604ebf3c051e1c7834b84049013b537633c2e5a1b0077ef9a940" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/extrautils2-1.12-1.9.9.jar"
 shasum: "946861f89e75a68e45e3117e9488498eb14db1143872c226f442706be523a890" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/ExtremeReactors-1.12.2-0.4.5.67.jar"
