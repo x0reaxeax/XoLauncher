@@ -10,6 +10,7 @@ shasum: "15d4152d9381142967a498ffdb41ad6365bb467977b5ccd37a1df45cc63812f8" mod: 
 shasum: "2b64a900a30d12c55c48f295097327eab5547fa3e7dccdce0f929ecdee25d038" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/blockcraftery-1.12.2-1.3.1.jar"
 shasum: "12b4eb8c9416141595a7d7785c2b448996bc2951b6e117798a82046a68d4afe1" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/BrandonsCore-1.12.2-2.4.18.210-universal.jar"
 shasum: "238416f801acda67b90fba9e0e572dbd6e7631b7e64c3eb3d6226f45ae536c87" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/Chameleon-1.12-4.1.3.jar"
+shasum: "62c3224d41e24b9ac04661e3d5240bf50b85349e43fd25e30bb2078c152d212f" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/ChickenChunks-1.12.2-2.4.2.74-universal.jar"
 shasum: "64c62f20a89939db2c03d47737c7bd371d8bd8c10ae42e2e8c63432ae89db2c7" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/Chisel-MC1.12.2-1.0.2.45.jar"
 shasum: "0b086aced1beca90ed5bb25fe6951a4d191d9b49f221af1074d1f9ff4f364b74" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/chiselsandbits-14.33.jar"
 shasum: "5f8499f7ee2590e45110bbf296b2bf101aec15897e28d5e9759cf8f2387d8a74" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/CodeChickenLib-1.12.2-3.2.3.358-universal.jar"
