@@ -106,3 +106,6 @@ shasum: "75d2a521092b020888c487479d841a09951f35ed19db09a7d28aed6e29155860" mod: 
 shasum: "f7103d2dfb8d8f63e9dff1525359f2b8c6da9cd9e70688037668982b130b704d" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar"
 shasum: "37b39fb2e10bf3a991952317d68cf137c7470060197ce74a5826699fac0326fc" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/xnet-1.12-1.8.2.jar"
 shasum: "37b39fb2e10bf3a991952317d68cf137c7470060197ce74a5826699fac0326fc" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/zerocore-1.12.2-0.1.2.8.jar"
+shasum: "9542e0863473b2cf61eff3fa7bdb9f096aaf7fc446c54750cbaa9db47a58f2fa" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/Pam.s+HarvestCraft+1.12.2zg.jar"
+shasum: "87e2702152d795efd8548b3a1ec9471469d7c705db1ec199a465807720ddcdcd" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/TinkerToolLeveling-1.12.2-1.1.0.jar"
+shasum: "94cd0ecbabc102d3ee2103ebef9dcff418e11a3e5f42441dd31a1cc14c3d0366" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/XL-Food-Mod-1.12.2-1.9.2.jar"
