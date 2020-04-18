@@ -37,7 +37,7 @@ shasum: "e0c2d00595b6f02ec5ca5da26eb8115f18f2dc92b78c07b7b2bae1dc95ff031f" mod: 
 shasum: "9bbb1d44c40194560533cffc48f8f9c8a7070ac0b1bb3ed094474d94b6f7b309" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/GalacticraftCore-1.12.2-4.0.2.244.jar"
 shasum: "c3b4c0b66aabd738fa4aaf50f3d802b68049733dface51d545dbfe9382bfd192" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/Galacticraft-Planets-1.12.2-4.0.2.244.jar"
 shasum: "f87256f4781137e9ccefeccc4bce240079178257fa1585e92a454081338de935" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/GardenStuff-1.12-2.1.1.jar"
-shasum: "8e9971de40307c239ea63ce0deec25492734a7653a9e76cf34e0c2079f334e60" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/geneticsreborn-1.12-1.25.jar"
+shasum: "871dd5abdcb303d22af82a29206a7c606a4f8d252ac0675f9e37ef489bb4baa5" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/geneticsreborn-1.12-1.28.jar"
 shasum: "e201712ef8fadc6c4b6380939751e92fe32cad2ba2dcb717e1acb3b07e0c2125" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/Guide-API-1.12-2.1.8-63.jar"
 shasum: "bd082fa2d1068862c7bcc9d16eccef0efba263ee794a647936dab9885c998f2d" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/HammerLib-1.12.2-2.0.6.14.jar"
 shasum: "e9ddecd4920ee9a57e11e4b43fb1dd395bbf37e276be726a99a2590272304124" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/Hwyla-1.8.26-B41_1.12.2.jar"
@@ -109,3 +109,4 @@ shasum: "37b39fb2e10bf3a991952317d68cf137c7470060197ce74a5826699fac0326fc" mod: 
 shasum: "9542e0863473b2cf61eff3fa7bdb9f096aaf7fc446c54750cbaa9db47a58f2fa" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/Pam.s+HarvestCraft+1.12.2zg.jar"
 shasum: "87e2702152d795efd8548b3a1ec9471469d7c705db1ec199a465807720ddcdcd" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/TinkerToolLeveling-1.12.2-1.1.0.jar"
 shasum: "94cd0ecbabc102d3ee2103ebef9dcff418e11a3e5f42441dd31a1cc14c3d0366" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/XL-Food-Mod-1.12.2-1.9.2.jar"
+shasum: "b13f5567c223b582119d38b4f67197e67476a3a7ff881a4e3b03508e01e7a349" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/StorageDrawers-1.12.2-5.4.1.jar"
