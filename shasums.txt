@@ -127,4 +127,5 @@ shasum: "77a4c5f23f73cb4597ea6ee97e6ff5dd0a5eb94d1f25bfd031516b335dc92efe" mod: 
 shasum: "bf678ca007953e8d5aee96f29aeefd88120485a988a05b7ec6d37663bb824891" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/rftoolspower-1.12-1.2.0.jar"
 shasum: "b1108185a0d8aa8ac03829ab301cb918d20d072a21fc59c42aba9b4c7cab6344" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/Xaeros_Minimap_20.7.1_Forge_1.12.jar"
 shasum: "14214b2f49a0ac5f1950d62a5025436f0df3575b677eb2686a82c2c8953503c3" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/XaerosWorldMap_1.5.7_Forge_1.12.jar"
-shasumL "39a220ef9334471a3fd7371d29a62a6a21c36751e736cc1bf44bea9610b166d1" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/TreeChopper-1.12.2-1.2.4.jar"
+shasum: "39a220ef9334471a3fd7371d29a62a6a21c36751e736cc1bf44bea9610b166d1" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/TreeChopper-1.12.2-1.2.4.jar"
+shasum: "44d35842c77c9b0679c4e57aa3ffb12c91b3c8527d3f040da073617a4b7a797b" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/grapplemod-v11.1-1.12.2.jar"
