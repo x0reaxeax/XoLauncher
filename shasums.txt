@@ -129,3 +129,6 @@ shasum: "b1108185a0d8aa8ac03829ab301cb918d20d072a21fc59c42aba9b4c7cab6344" mod: 
 shasum: "14214b2f49a0ac5f1950d62a5025436f0df3575b677eb2686a82c2c8953503c3" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/XaerosWorldMap_1.5.7_Forge_1.12.jar"
 shasum: "39a220ef9334471a3fd7371d29a62a6a21c36751e736cc1bf44bea9610b166d1" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/TreeChopper-1.12.2-1.2.4.jar"
 shasum: "44d35842c77c9b0679c4e57aa3ffb12c91b3c8527d3f040da073617a4b7a797b" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/grapplemod-v11.1-1.12.2.jar"
+shasum: "15da12889face6607d95675e79645e7fe4aebdf69fc8f7e133f527bf57093465" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/Cyclic-1.12.2-1.20.2.jar"
+shasum: "bbca219d89014eb86e5bd5e384597d81773632c38aba3b9ad8d95a2db2cf671b" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/roost-1.12.2-2.0.10.jar"
+shasum: "b2e129185202de96c29d6a3d05666f9aa162404c91d20957a2cf71f8f575abab" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/baubley-heart-canisters-1.12.2-1.2.3.jar"
