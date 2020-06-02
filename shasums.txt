@@ -132,5 +132,4 @@ shasum: "44d35842c77c9b0679c4e57aa3ffb12c91b3c8527d3f040da073617a4b7a797b" mod: 
 shasum: "15da12889face6607d95675e79645e7fe4aebdf69fc8f7e133f527bf57093465" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/Cyclic-1.12.2-1.20.2.jar"
 shasum: "bbca219d89014eb86e5bd5e384597d81773632c38aba3b9ad8d95a2db2cf671b" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/roost-1.12.2-2.0.10.jar"
 shasum: "b2e129185202de96c29d6a3d05666f9aa162404c91d20957a2cf71f8f575abab" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/baubley-heart-canisters-1.12.2-1.2.3.jar"
-shasum: "91f4f17e45bbccc8ce0f2442294a18ed71b6c96f44b14e30ba756302070f30b5" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/lycanitesmobs-1.12.2-2.0.7.2.jar"
 shasum: "21a402410869dad8d023e05f3a5488e7b34680ca11e8226560c572f6d06e53f1" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/BattleTowers-1.12.2.jar"
