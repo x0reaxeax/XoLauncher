@@ -18,6 +18,7 @@
 ## TO-DO:
 - [ ] Dynamic Download Progress Bar
 - [ ] **Fix bug with launching incorrect instance after (???)**
+- [ ] Fix broken parsing when downloading directly from CurseForge
 - [x] Automatic removal of outdated mods
 - [x] Fix bug with launching incorrect instance after re-launching Minecraft
 - [x] Add title font to resources file
