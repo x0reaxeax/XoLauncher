@@ -143,3 +143,4 @@ shasum: "8e12867437df144d01307a1b76d60df35432d66f032df52aeab9a216c1b18437" mod: 
 shasum: "5754d384f540785d8e3167515f92c36cef9ec8ed3309b6caac53b4e12b505a5d" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/ClickMachine-1.12.2-1.2.0.jar"
 shasum: "c2110db8b8abec23d9e2e9c4a89be010f6fe1150d52595397179c8804d942ee3" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/Placebo-1.12.2-1.6.0.jar"
 shasum: "5c72f0db4476dab72c5c9cb68e9ef21ddb45f7b4cbedf4673d069f7d194b9886" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/ThermalInnovation-1.12.2-0.3.6.1-universal.jar"
+shasum: "e5844c044d9f2ce2f23eef84d95eea8cc1f2c5581874bd01410e7d103b90a424" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/p455w0rdslib-1.12.2-2.3.161.jar"
