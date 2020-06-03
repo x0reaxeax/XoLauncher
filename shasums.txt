@@ -135,7 +135,6 @@ shasum: "b2e129185202de96c29d6a3d05666f9aa162404c91d20957a2cf71f8f575abab" mod: 
 shasum: "21a402410869dad8d023e05f3a5488e7b34680ca11e8226560c572f6d06e53f1" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/BattleTowers-1.12.2.jar"
 shasum: "77f47e1e6e5c8e7315257617b817c4216cceb522954b9751a8c5be6fc8ebaa08" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/SolarGeneration-1.12.2-1.3.0.jar"
 shasum: "d64277429282b9e427d47098045a958d5ad95fbef1e568c50d82494095e71fec" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/Draconic-Additions-1.12.2-1.11.0.31-universal.jar"
-shasum: "403416530e13954d37da38686603d4223947f48f36ebd0ba1ead13c8e62c44ec" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/WarpDrive-1.12.2-1.5.13.jar"
 shasum: "c832d6e31a7e4f99f8236469f45dcbcda531ed533312745cd2025c2b7f3781e1" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/CraftTweaker2-1.12-4.1.20.574.jar"
 shasum: "03a52478b440c6a835984db3ef501a362ecebacc4b908e28298ec90cede08266" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/AcademyCraft-1.1.2.jar"
 shasum: "893a2bb9c9f0fd028b9469a516111eb3b2847212c4feef3b2f24b1b612aedb0a" mod: "https://github.com/x0reaxeax/XoLauncher/releases/download/rls/iskalliumreactors-1.12.2-0.5.16.jar"
