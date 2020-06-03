@@ -142,3 +142,4 @@ shasum: "893a2bb9c9f0fd028b9469a516111eb3b2847212c4feef3b2f24b1b612aedb0a" mod: 
 shasum: "8e12867437df144d01307a1b76d60df35432d66f032df52aeab9a216c1b18437" mod: "https://media.forgecdn.net/files/2920/596/DankNull-1.12.2-1.7.91.jar"
 shasum: "5754d384f540785d8e3167515f92c36cef9ec8ed3309b6caac53b4e12b505a5d" mod: "https://media.forgecdn.net/files/2661/199/ClickMachine-1.12.2-1.2.0.jar"
 shasum: "c2110db8b8abec23d9e2e9c4a89be010f6fe1150d52595397179c8804d942ee3" mod: "https://media.forgecdn.net/files/2694/382/Placebo-1.12.2-1.6.0.jar"
+shasum: "5c72f0db4476dab72c5c9cb68e9ef21ddb45f7b4cbedf4673d069f7d194b9886" mod: "https://media.forgecdn.net/files/2920/441/ThermalInnovation-1.12.2-0.3.6.1-universal.jar"
